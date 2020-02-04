@@ -14,7 +14,6 @@
 
 <blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
-
 ## Version
 
 <a href="https://nodejs.org/pt/"> NodeJS 12.14.1 </a>
@@ -72,6 +71,6 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/alexiakattah/gobarber-api/blob/master/LICENCE)
+This project is under the MIT license. See the [LICENSE](https://github.com/alexiakattah/fastfeet-api/blob/master/LICENCE)
 
 Made with ♥ by Alexia Kattah :wave: [Linkedin](https://www.linkedin.com/in/alexiakattah/)
