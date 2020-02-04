@@ -7,10 +7,13 @@
     "dev": "nodemon src/server.js"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
     "pg": "^7.18.1",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^5.21.3"
+    "sequelize": "^5.21.3",
+    "yup": "^0.28.1"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
@@ -20,6 +23,7 @@
     "eslint-plugin-prettier": "^3.1.2",
     "nodemon": "^2.0.2",
     "prettier": "^1.19.1",
-    "sequelize-cli": "^5.5.1"
+    "sequelize-cli": "^5.5.1",
+    "sucrase": "^3.12.1"
   }
 }
